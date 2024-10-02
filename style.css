@@ -1,0 +1,26 @@
+h1 { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    font-size: 26px;
+    text-align: center;
+}
+
+button{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    border-radius: 7px;
+    padding: 3px;
+    padding-right: 8px;
+    padding-left: 8px;
+    align-items: center;
+    text-align: center;
+}
+
+button:hover{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blueviolet;
+    border-radius: 7px;
+    padding: 3px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
